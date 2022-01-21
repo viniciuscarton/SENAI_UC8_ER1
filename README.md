@@ -7,5 +7,5 @@
 	Menos de 10: pode cadastrar.
 	Mais de 10: não pode cadastrar.
 ## Nome da peça <3 caracteres, informar erro.
-	Menos de tres caracteres: não pode cadastrar.
+	Menos de três caracteres: não pode cadastrar.
 	Mais de três: pode cadastrar.
