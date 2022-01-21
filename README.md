@@ -1,4 +1,4 @@
-# Atividade do encontro remoto 1 da UC08 - Lógica da Programação.
+# Atividade do encontro remoto 1 da UC08 - Lógica de Programação.
 
 ## Se a peça possuir um peso superior a 100 gramas, pode cadastrar.
 	Sim: pode cadastrar.
